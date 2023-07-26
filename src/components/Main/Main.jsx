@@ -1,13 +1,13 @@
-import SectionAdditionalFeatures from "../SectionAdditionalFeatures/SectionAdditionalFeatures";
-import SectionAdvantages from "../SectionAdvantages/SectionAdvantages";
-import SectionDemo from "../SectionDemo";
+import SectionAdditionalFeatures from "../SectionAdditionalFeatures";
+import SectionAdvantages from "../SectionAdvantages";
+import SectionAbout from "../SectionAbout";
 import { Wrapper } from "./Main.styled";
 
 export const Main = () => {
  
  return (
     <Wrapper>
-      <SectionDemo />
+      <SectionAbout />
       <SectionAdvantages />
       <SectionAdditionalFeatures />
     </Wrapper>

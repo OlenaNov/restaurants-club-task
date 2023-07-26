@@ -1,1 +1,1 @@
-export { default } from './SectionAttract';
+export { default } from './SectionAdditionalFeatures';
