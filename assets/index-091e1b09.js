@@ -624,7 +624,7 @@ Error generating stack: `+l.message+`
     font-family: Poppins,sans-serif;
     font-weight: 600;
     text-decoration-line: underline;
-`,iv="/restaurants-club-task/assets/img-pubblicitario-demo-ffcc1cad.png",lv=()=>v.jsx(Zg,{children:v.jsxs(Jg,{children:[v.jsx("img",{src:iv,alt:"Demo",width:"340px"}),v.jsxs(qg,{children:[v.jsxs(bg,{children:["Raggiungi i tuoi clienti.",v.jsx("br",{}),"Attraine di nuovi."]}),v.jsx(ev,{children:"La piattaforma per la ristorazione che ti aiuta a creare e gestire la tua agenda di clienti fedeli."})]}),v.jsxs(tv,{children:[v.jsx(nv,{type:"button",children:"Vedi la demo"}),v.jsx(rv,{type:"button",children:"Scopri tutte le funzioni"})]})]})}),ov=D.main`
+`,iv="/restaurants-club-task/assets/app-view-about-ffcc1cad.png",lv=()=>v.jsx(Zg,{children:v.jsxs(Jg,{children:[v.jsx("img",{src:iv,alt:"About",width:"340px"}),v.jsxs(qg,{children:[v.jsxs(bg,{children:["Raggiungi i tuoi clienti.",v.jsx("br",{}),"Attraine di nuovi."]}),v.jsx(ev,{children:"La piattaforma per la ristorazione che ti aiuta a creare e gestire la tua agenda di clienti fedeli."})]}),v.jsxs(tv,{children:[v.jsx(nv,{type:"button",children:"Vedi la demo"}),v.jsx(rv,{type:"button",children:"Scopri tutte le funzioni"})]})]})}),ov=D.main`
     display: flex;
     flex-direction: column;
     row-gap: 2rem;
